@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+<a href="https://www.linkedin.com/in/eshudhi-malviya/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+- 👀 , I’m @Eshudhi Malviya
+<br/>              
+- 🔭 I’m currently working on AI project
+<br/>
+- 🌱 I’m currently learning AI and Web development
+                                 
 <!--
 **Eshudhi/Eshudhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
