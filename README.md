@@ -1,7 +1,11 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/eshudhi-malviya/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Eshudhi's LinkedIN" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
+<a href="mailto:eshudhi@gmail.com/">
+  <img align="left" alt="Eshudhi's Gmail" width="30px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
+</a>
+
 <br />
 <br/>
 - 👀 , I’m @Eshudhi Malviya
