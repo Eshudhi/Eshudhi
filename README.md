@@ -10,9 +10,9 @@
 <br/>
 - 👀 , I’m @Eshudhi Malviya
 <br/>              
-- 🔭 I’m currently working on AI project
+- 🔭 I’m currently working on web development projects
 <br/>
-- 🌱 I’m currently learning AI and Web development
+- 🌱 Interested in IT based job position
                                  
 <!--
 **Eshudhi/Eshudhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
